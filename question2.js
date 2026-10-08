@@ -1,4 +1,3 @@
-
 const resolvedPromise = () => {
   return new Promise((resolve) => {
     setTimeout(() => {
